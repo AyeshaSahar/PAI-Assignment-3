@@ -4,6 +4,6 @@
 
 The paper is linked [here](https://www.mdpi.com/2504-2289/8/9/107).
 
-- The Fine tuning bert.ipynb has the code implemented for the research paper.
+- The Fine_tuning_bert.ipynb has the code implemented for the research paper.
 - The paper.pdf file is the pdf file of the research paper linked above.
 - Skroutz_dataset.xlsx is the dataset used and was linked in the research paper as well. It is a publicly available dataset on Kaggle.
